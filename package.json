@@ -1,0 +1,23 @@
+{
+  "name": "generic",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DonovanDMC/NPMGeneric.git"
+  },
+  "author": "Donovan_DMC <hewwo@yiff.rocks> (https://donovan.is.gay)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DonovanDMC/NPMGeneric/issues"
+  },
+  "homepage": "https://github.com/DonovanDMC/NPMGeneric#readme",
+  "devDependencies": {
+    "@uwu-codes/eslint-config": "^1.0.18",
+    "@uwu-codes/tsconfig": "^1.0.1"
+  }
+}
